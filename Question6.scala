@@ -1,4 +1,4 @@
-package T5
+package Tutorial5
 
 import scala.io.StdIn
 
